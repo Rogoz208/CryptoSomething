@@ -1,4 +1,4 @@
-package com.rogoz208.cryptosomething.ui.theme
+package com.rogoz208.cryptosomething.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.rogoz208.cryptosomething.ui.theme
+package com.rogoz208.cryptosomething.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Shapes
